@@ -37,7 +37,3 @@
 ####   Transfer
 ![](screenshots/transfer.png)
 
-
-####   Return Query
-![](screenshots/return-query.png)
-
