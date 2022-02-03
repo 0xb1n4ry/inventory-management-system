@@ -16,28 +16,28 @@
 - Start with "Item Entry" tab to enter inventory items and do Stock Query, Transfer or Sell, Handle Returns of Items etc
 
   
-## Snapshots
+## Screenshots
 
 #### Home/Login Screen
-<!-- ![](snapshots/home-login.png) -->
+![](screenshots/home-login.png)
 
 
 ####   Initial Records
-<!-- ![](snapshots/initial-records.png) -->
+![](screenshots/initial-records.png)
 
 
 ####   New Item Entry
-<!-- ![](snapshots/new-item.png) -->
+![](screenshots/new-item.png)
 
 
 ####   Stock Query
-<!-- ![](snapshots/stock-query.png) -->
+![](screenshots/stock-query.png)
 
 
 ####   Transfer
-<!-- ![](snapshots/transfer.png) -->
+![](screenshots/transfer.png)
 
 
 ####   Return Query
-<!-- ![](snapshots/return-query.png) -->
+![](screenshots/return-query.png)
 
